@@ -1,8 +1,7 @@
 # SmartLamp-SmartGlow
 
-![GitHub license](https://img.shields.io/github/license/username/smartlamp-smartglow)
-![GitHub issues](https://img.shields.io/github/issues/username/smartlamp-smartglow)
-![GitHub last commit](https://img.shields.io/github/last-commit/username/smartlamp-smartglow)
+![GitHub issues](https://img.shields.io/github/issues/utku-kucuk/SmartLamp-SmartGlow)
+![GitHub last commit](https://img.shields.io/github/last-commit/utku-kucuk/SmartLamp-SmartGlow)
 
 Welcome to the **SmartLamp-SmartGlow** project! This is an IoT-based smart lighting solution featuring a 2.4" TFT touchscreen and two addressable WS2812B LED strips. The lamp can be controlled via a touchscreen interface or remotely through Home Assistant using MQTT. It supports multiple lighting effects, brightness adjustment, and color selection.
 
